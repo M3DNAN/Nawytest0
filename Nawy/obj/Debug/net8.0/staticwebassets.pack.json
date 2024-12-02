@@ -1,0 +1,57 @@
+{
+  "Files": [
+    {
+      "Id": "G:\\mostafa  momeh\\web development\\back-end\\.net playlist\\final-project-test\\Nawy\\wwwroot\\images\\1c94e532-e601-4fd6-950d-16f17d487d08.png",
+      "PackagePath": "staticwebassets\\images\\1c94e532-e601-4fd6-950d-16f17d487d08.png"
+    },
+    {
+      "Id": "G:\\mostafa  momeh\\web development\\back-end\\.net playlist\\final-project-test\\Nawy\\wwwroot\\images\\45337cc2-3914-4bf9-9ea9-9922a41562bb.png",
+      "PackagePath": "staticwebassets\\images\\45337cc2-3914-4bf9-9ea9-9922a41562bb.png"
+    },
+    {
+      "Id": "G:\\mostafa  momeh\\web development\\back-end\\.net playlist\\final-project-test\\Nawy\\wwwroot\\images\\98a9130c-a3da-4102-88b0-ec589497c4d7.png",
+      "PackagePath": "staticwebassets\\images\\98a9130c-a3da-4102-88b0-ec589497c4d7.png"
+    },
+    {
+      "Id": "G:\\mostafa  momeh\\web development\\back-end\\.net playlist\\final-project-test\\Nawy\\wwwroot\\images\\a7cadb4b-2c20-4780-826a-c087ce080977.png",
+      "PackagePath": "staticwebassets\\images\\a7cadb4b-2c20-4780-826a-c087ce080977.png"
+    },
+    {
+      "Id": "G:\\mostafa  momeh\\web development\\back-end\\.net playlist\\final-project-test\\Nawy\\wwwroot\\images\\e2d48f66-d1e0-435b-a567-b9bc26191b07.png",
+      "PackagePath": "staticwebassets\\images\\e2d48f66-d1e0-435b-a567-b9bc26191b07.png"
+    },
+    {
+      "Id": "G:\\mostafa  momeh\\web development\\back-end\\.net playlist\\final-project-test\\Nawy\\wwwroot\\images\\e2e1a4ab-01bf-478f-afb3-af371dee5275.png",
+      "PackagePath": "staticwebassets\\images\\e2e1a4ab-01bf-478f-afb3-af371dee5275.png"
+    },
+    {
+      "Id": "G:\\mostafa  momeh\\web development\\back-end\\.net playlist\\final-project-test\\Nawy\\wwwroot\\images\\f52ec384-f955-46f4-9abd-519fbe8f797e.png",
+      "PackagePath": "staticwebassets\\images\\f52ec384-f955-46f4-9abd-519fbe8f797e.png"
+    },
+    {
+      "Id": "G:\\mostafa  momeh\\web development\\back-end\\.net playlist\\final-project-test\\Nawy\\wwwroot\\images\\fa797c45-83ff-4c9a-bd63-538e6640ea4f.png",
+      "PackagePath": "staticwebassets\\images\\fa797c45-83ff-4c9a-bd63-538e6640ea4f.png"
+    },
+    {
+      "Id": "G:\\mostafa  momeh\\web development\\back-end\\.net playlist\\final-project-test\\Nawy\\wwwroot\\images\\fce92256-6561-4338-a785-5309b25715cf.png",
+      "PackagePath": "staticwebassets\\images\\fce92256-6561-4338-a785-5309b25715cf.png"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.Nawy.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.build.Nawy.props",
+      "PackagePath": "build\\Nawy.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildMultiTargeting.Nawy.props",
+      "PackagePath": "buildMultiTargeting\\Nawy.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildTransitive.Nawy.props",
+      "PackagePath": "buildTransitive\\Nawy.props"
+    }
+  ],
+  "ElementsToRemove": []
+}
