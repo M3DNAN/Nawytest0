@@ -46,6 +46,10 @@ namespace RepositoryModel.Models
         public string DeveloperId { get; set; } 
         public Developer Developer { get; set; }
 
+		// LocationRoi relation
+		public int? LocationRoiId { get; set; } 
+        public LocationRoi? LocationRoi { get; set; }
+
 
     }
 }

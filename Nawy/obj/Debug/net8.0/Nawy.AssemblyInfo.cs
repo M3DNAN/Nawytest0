@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Nawy")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+137d02bd4dad0c233bd760ea84e0d818bd89392b")]
 [assembly: System.Reflection.AssemblyProductAttribute("Nawy")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Nawy")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

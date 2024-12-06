@@ -15,6 +15,8 @@ namespace RepositoryModel
         IDatabaseRepository<UnitImages> UnitImages { get; }
         IDatabaseRepository<UnitView> UnitViews { get; }
         IDatabaseRepository<Developer> Developers { get; }
+        IDatabaseRepository<LocationRoi> LocationRois { get; }
+        IDatabaseRepository<ApplicationUser> ApplicationUsers { get; }
         IAccountRepository Accounts { get; }
         int Compelet();
         void Dispose();

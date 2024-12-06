@@ -22,3 +22,16 @@ G:\mostafa  momeh\web development\back-end\.net playlist\final-project-test\Repo
 G:\mostafa  momeh\web development\back-end\.net playlist\final-project-test\RepositoryModel\obj\Debug\net8.0\refint\RepositoryModel.dll
 G:\mostafa  momeh\web development\back-end\.net playlist\final-project-test\RepositoryModel\obj\Debug\net8.0\RepositoryModel.pdb
 G:\mostafa  momeh\web development\back-end\.net playlist\final-project-test\RepositoryModel\obj\Debug\net8.0\ref\RepositoryModel.dll
+C:\Users\mostafa\Source\Repos\Nawytest\RepositoryModel\bin\Debug\net8.0\RepositoryModel.deps.json
+C:\Users\mostafa\Source\Repos\Nawytest\RepositoryModel\bin\Debug\net8.0\RepositoryModel.dll
+C:\Users\mostafa\Source\Repos\Nawytest\RepositoryModel\bin\Debug\net8.0\RepositoryModel.pdb
+C:\Users\mostafa\Source\Repos\Nawytest\RepositoryModel\obj\Debug\net8.0\RepositoryModel.csproj.AssemblyReference.cache
+C:\Users\mostafa\Source\Repos\Nawytest\RepositoryModel\obj\Debug\net8.0\RepositoryModel.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mostafa\Source\Repos\Nawytest\RepositoryModel\obj\Debug\net8.0\RepositoryModel.AssemblyInfoInputs.cache
+C:\Users\mostafa\Source\Repos\Nawytest\RepositoryModel\obj\Debug\net8.0\RepositoryModel.AssemblyInfo.cs
+C:\Users\mostafa\Source\Repos\Nawytest\RepositoryModel\obj\Debug\net8.0\RepositoryModel.csproj.CoreCompileInputs.cache
+C:\Users\mostafa\Source\Repos\Nawytest\RepositoryModel\obj\Debug\net8.0\RepositoryModel.sourcelink.json
+C:\Users\mostafa\Source\Repos\Nawytest\RepositoryModel\obj\Debug\net8.0\RepositoryModel.dll
+C:\Users\mostafa\Source\Repos\Nawytest\RepositoryModel\obj\Debug\net8.0\refint\RepositoryModel.dll
+C:\Users\mostafa\Source\Repos\Nawytest\RepositoryModel\obj\Debug\net8.0\RepositoryModel.pdb
+C:\Users\mostafa\Source\Repos\Nawytest\RepositoryModel\obj\Debug\net8.0\ref\RepositoryModel.dll

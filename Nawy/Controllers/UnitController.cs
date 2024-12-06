@@ -26,7 +26,7 @@ namespace Nawy.Controllers
 
 
         [HttpGet("Units")]
-        [Authorize]
+       // [Authorize]
         public IActionResult GetAll()
         { 
           List<UnitDtoRead> units=new List<UnitDtoRead> ();

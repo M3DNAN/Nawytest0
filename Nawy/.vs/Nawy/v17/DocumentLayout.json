@@ -1,51 +1,51 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "G:\\mostafa  momeh\\web development\\back-end\\.net playlist\\final-project-test\\Nawy\\",
+  "WorkspaceRootPath": "C:\\Users\\mostafa\\source\\repos\\Nawytest0\\Nawy\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{C9B377CD-A400-431B-A949-3C79189D7D49}|Nawy.csproj|g:\\mostafa  momeh\\web development\\back-end\\.net playlist\\final-project-test\\nawy\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
-      "RelativeMoniker": "D:0:0:{C9B377CD-A400-431B-A949-3C79189D7D49}|Nawy.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{C9B377CD-A400-431B-A949-3C79189D7D49}|Nawy.csproj|g:\\mostafa  momeh\\web development\\back-end\\.net playlist\\final-project-test\\nawy\\controllers\\transactioncontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{C9B377CD-A400-431B-A949-3C79189D7D49}|Nawy.csproj|solutionrelative:controllers\\transactioncontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{C9B377CD-A400-431B-A949-3C79189D7D49}|Nawy.csproj|g:\\mostafa  momeh\\web development\\back-end\\.net playlist\\final-project-test\\nawy\\controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{C9B377CD-A400-431B-A949-3C79189D7D49}|Nawy.csproj|solutionrelative:controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{C9B377CD-A400-431B-A949-3C79189D7D49}|Nawy.csproj|g:\\mostafa  momeh\\web development\\back-end\\.net playlist\\final-project-test\\nawy\\controllers\\unitcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{C9B377CD-A400-431B-A949-3C79189D7D49}|Nawy.csproj|c:\\users\\mostafa\\source\\repos\\nawytest0\\nawy\\controllers\\unitcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{C9B377CD-A400-431B-A949-3C79189D7D49}|Nawy.csproj|solutionrelative:controllers\\unitcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{C9B377CD-A400-431B-A949-3C79189D7D49}|Nawy.csproj|g:\\mostafa  momeh\\web development\\back-end\\.net playlist\\final-project-test\\nawy\\dtos\\refreshtokenrequestinpage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{C9B377CD-A400-431B-A949-3C79189D7D49}|Nawy.csproj|c:\\users\\mostafa\\source\\repos\\nawytest0\\nawy\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{C9B377CD-A400-431B-A949-3C79189D7D49}|Nawy.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C9B377CD-A400-431B-A949-3C79189D7D49}|Nawy.csproj|c:\\users\\mostafa\\source\\repos\\nawytest0\\nawy\\controllers\\transactioncontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C9B377CD-A400-431B-A949-3C79189D7D49}|Nawy.csproj|solutionrelative:controllers\\transactioncontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C9B377CD-A400-431B-A949-3C79189D7D49}|Nawy.csproj|c:\\users\\mostafa\\source\\repos\\nawytest0\\nawy\\controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C9B377CD-A400-431B-A949-3C79189D7D49}|Nawy.csproj|solutionrelative:controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C9B377CD-A400-431B-A949-3C79189D7D49}|Nawy.csproj|c:\\users\\mostafa\\source\\repos\\nawytest0\\nawy\\dtos\\refreshtokenrequestinpage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{C9B377CD-A400-431B-A949-3C79189D7D49}|Nawy.csproj|solutionrelative:dtos\\refreshtokenrequestinpage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{C6BA17E1-AD9C-4561-9122-A2EA3DBA26D1}|..\\DataBaseModel\\DataBaseModel.csproj|g:\\mostafa  momeh\\web development\\back-end\\.net playlist\\final-project-test\\databasemodel\\repositories\\accountrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{C9B377CD-A400-431B-A949-3C79189D7D49}|Nawy.csproj|g:\\mostafa  momeh\\web development\\back-end\\.net playlist\\final-project-test\\nawy\\dtos\\unitdtoread.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{C9B377CD-A400-431B-A949-3C79189D7D49}|Nawy.csproj|c:\\users\\mostafa\\source\\repos\\nawytest0\\nawy\\dtos\\unitdtoread.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{C9B377CD-A400-431B-A949-3C79189D7D49}|Nawy.csproj|solutionrelative:dtos\\unitdtoread.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{D379120C-D720-4D5F-A6EE-A2AE59378856}|..\\RepositoryModel\\RepositoryModel.csproj|g:\\mostafa  momeh\\web development\\back-end\\.net playlist\\final-project-test\\repositorymodel\\constenum\\viewspecial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{C9B377CD-A400-431B-A949-3C79189D7D49}|Nawy.csproj|g:\\mostafa  momeh\\web development\\back-end\\.net playlist\\final-project-test\\nawy\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{C9B377CD-A400-431B-A949-3C79189D7D49}|Nawy.csproj|c:\\users\\mostafa\\source\\repos\\nawytest0\\nawy\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{C9B377CD-A400-431B-A949-3C79189D7D49}|Nawy.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{D379120C-D720-4D5F-A6EE-A2AE59378856}|..\\RepositoryModel\\RepositoryModel.csproj|g:\\mostafa  momeh\\web development\\back-end\\.net playlist\\final-project-test\\repositorymodel\\models\\applicationuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{C9B377CD-A400-431B-A949-3C79189D7D49}|Nawy.csproj|g:\\mostafa  momeh\\web development\\back-end\\.net playlist\\final-project-test\\nawy\\dtos\\unitdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{C9B377CD-A400-431B-A949-3C79189D7D49}|Nawy.csproj|c:\\users\\mostafa\\source\\repos\\nawytest0\\nawy\\dtos\\unitdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{C9B377CD-A400-431B-A949-3C79189D7D49}|Nawy.csproj|solutionrelative:dtos\\unitdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{C9B377CD-A400-431B-A949-3C79189D7D49}|Nawy.csproj|g:\\mostafa  momeh\\web development\\back-end\\.net playlist\\final-project-test\\nawy\\dtos\\accountuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{C9B377CD-A400-431B-A949-3C79189D7D49}|Nawy.csproj|c:\\users\\mostafa\\source\\repos\\nawytest0\\nawy\\dtos\\accountuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{C9B377CD-A400-431B-A949-3C79189D7D49}|Nawy.csproj|solutionrelative:dtos\\accountuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|G:\\mostafa  momeh\\web development\\back-end\\.net playlist\\final-project-test\\RepositoryModel\\ConstEnum\\ViewSpecial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|G:\\mostafa  momeh\\web development\\back-end\\.net playlist\\final-project-test\\DataBaseModel\\Repositories\\AccountRepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|G:\\mostafa  momeh\\web development\\back-end\\.net playlist\\final-project-test\\RepositoryModel\\Models\\ApplicationUser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -55,50 +55,23 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 10,
           "Children": [
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{0ad07096-bba9-4900-a651-0598d26f6d24}"
             },
             {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "appsettings.json",
-              "DocumentMoniker": "G:\\mostafa  momeh\\web development\\back-end\\.net playlist\\final-project-test\\Nawy\\appsettings.json",
-              "RelativeDocumentMoniker": "appsettings.json",
-              "ToolTip": "G:\\mostafa  momeh\\web development\\back-end\\.net playlist\\final-project-test\\Nawy\\appsettings.json",
-              "RelativeToolTip": "appsettings.json",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2024-12-02T16:07:42.7Z",
-              "EditorCaption": ""
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
             },
             {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "AccountController.cs",
-              "DocumentMoniker": "G:\\mostafa  momeh\\web development\\back-end\\.net playlist\\final-project-test\\Nawy\\Controllers\\AccountController.cs",
-              "RelativeDocumentMoniker": "Controllers\\AccountController.cs",
-              "ToolTip": "G:\\mostafa  momeh\\web development\\back-end\\.net playlist\\final-project-test\\Nawy\\Controllers\\AccountController.cs",
-              "RelativeToolTip": "Controllers\\AccountController.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-02T16:06:33.825Z",
-              "EditorCaption": ""
+              "$type": "Bookmark",
+              "Name": "ST:130:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
             },
             {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "TransactionController.cs",
-              "DocumentMoniker": "G:\\mostafa  momeh\\web development\\back-end\\.net playlist\\final-project-test\\Nawy\\Controllers\\TransactionController.cs",
-              "RelativeDocumentMoniker": "Controllers\\TransactionController.cs",
-              "ToolTip": "G:\\mostafa  momeh\\web development\\back-end\\.net playlist\\final-project-test\\Nawy\\Controllers\\TransactionController.cs",
-              "RelativeToolTip": "Controllers\\TransactionController.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-02T16:06:30.73Z",
-              "EditorCaption": ""
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
             },
             {
               "$type": "Bookmark",
@@ -106,120 +79,143 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "ViewSpecial.cs",
-              "DocumentMoniker": "G:\\mostafa  momeh\\web development\\back-end\\.net playlist\\final-project-test\\RepositoryModel\\ConstEnum\\ViewSpecial.cs",
-              "RelativeDocumentMoniker": "..\\RepositoryModel\\ConstEnum\\ViewSpecial.cs",
-              "ToolTip": "G:\\mostafa  momeh\\web development\\back-end\\.net playlist\\final-project-test\\RepositoryModel\\ConstEnum\\ViewSpecial.cs",
-              "RelativeToolTip": "..\\RepositoryModel\\ConstEnum\\ViewSpecial.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAASAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-01T03:03:26.36Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "UnitDtoRead.cs",
-              "DocumentMoniker": "G:\\mostafa  momeh\\web development\\back-end\\.net playlist\\final-project-test\\Nawy\\Dtos\\UnitDtoRead.cs",
-              "RelativeDocumentMoniker": "Dtos\\UnitDtoRead.cs",
-              "ToolTip": "G:\\mostafa  momeh\\web development\\back-end\\.net playlist\\final-project-test\\Nawy\\Dtos\\UnitDtoRead.cs",
-              "RelativeToolTip": "Dtos\\UnitDtoRead.cs",
-              "ViewState": "AQIAAAkAAAAAAAAAAEBTwBYAAAAzAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-01T02:59:57.664Z",
+              "DocumentIndex": 1,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\mostafa\\source\\repos\\Nawytest0\\Nawy\\appsettings.json",
+              "RelativeDocumentMoniker": "appsettings.json",
+              "ToolTip": "C:\\Users\\mostafa\\source\\repos\\Nawytest0\\Nawy\\appsettings.json",
+              "RelativeToolTip": "appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABkAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-12-02T16:07:42.7Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 3,
+              "Title": "AccountController.cs",
+              "DocumentMoniker": "C:\\Users\\mostafa\\source\\repos\\Nawytest0\\Nawy\\Controllers\\AccountController.cs",
+              "RelativeDocumentMoniker": "Controllers\\AccountController.cs",
+              "ToolTip": "C:\\Users\\mostafa\\source\\repos\\Nawytest0\\Nawy\\Controllers\\AccountController.cs",
+              "RelativeToolTip": "Controllers\\AccountController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-02T16:06:33.825Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "TransactionController.cs",
+              "DocumentMoniker": "C:\\Users\\mostafa\\source\\repos\\Nawytest0\\Nawy\\Controllers\\TransactionController.cs",
+              "RelativeDocumentMoniker": "Controllers\\TransactionController.cs",
+              "ToolTip": "C:\\Users\\mostafa\\source\\repos\\Nawytest0\\Nawy\\Controllers\\TransactionController.cs",
+              "RelativeToolTip": "Controllers\\TransactionController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-02T16:06:30.73Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "ViewSpecial.cs",
+              "DocumentMoniker": "G:\\mostafa  momeh\\web development\\back-end\\.net playlist\\final-project-test\\RepositoryModel\\ConstEnum\\ViewSpecial.cs",
+              "ToolTip": "G:\\mostafa  momeh\\web development\\back-end\\.net playlist\\final-project-test\\RepositoryModel\\ConstEnum\\ViewSpecial.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAASAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-01T03:03:26.36Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "UnitDtoRead.cs",
+              "DocumentMoniker": "C:\\Users\\mostafa\\source\\repos\\Nawytest0\\Nawy\\Dtos\\UnitDtoRead.cs",
+              "RelativeDocumentMoniker": "Dtos\\UnitDtoRead.cs",
+              "ToolTip": "C:\\Users\\mostafa\\source\\repos\\Nawytest0\\Nawy\\Dtos\\UnitDtoRead.cs",
+              "RelativeToolTip": "Dtos\\UnitDtoRead.cs",
+              "ViewState": "AQIAAAkAAAAAAAAAAEBTwBYAAAAzAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-01T02:59:57.664Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
               "Title": "UnitController.cs",
-              "DocumentMoniker": "G:\\mostafa  momeh\\web development\\back-end\\.net playlist\\final-project-test\\Nawy\\Controllers\\UnitController.cs",
+              "DocumentMoniker": "C:\\Users\\mostafa\\source\\repos\\Nawytest0\\Nawy\\Controllers\\UnitController.cs",
               "RelativeDocumentMoniker": "Controllers\\UnitController.cs",
-              "ToolTip": "G:\\mostafa  momeh\\web development\\back-end\\.net playlist\\final-project-test\\Nawy\\Controllers\\UnitController.cs",
+              "ToolTip": "C:\\Users\\mostafa\\source\\repos\\Nawytest0\\Nawy\\Controllers\\UnitController.cs",
               "RelativeToolTip": "Controllers\\UnitController.cs",
-              "ViewState": "AQIAACYAAAAAAAAAAAAAADgAAABQAAAA",
+              "ViewState": "AQIAACAAAAAAAAAAAAAAADgAAABQAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-11-30T00:03:21.457Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 10,
               "Title": "AccountRepository.cs",
               "DocumentMoniker": "G:\\mostafa  momeh\\web development\\back-end\\.net playlist\\final-project-test\\DataBaseModel\\Repositories\\AccountRepository.cs",
-              "RelativeDocumentMoniker": "..\\DataBaseModel\\Repositories\\AccountRepository.cs",
               "ToolTip": "G:\\mostafa  momeh\\web development\\back-end\\.net playlist\\final-project-test\\DataBaseModel\\Repositories\\AccountRepository.cs",
-              "RelativeToolTip": "..\\DataBaseModel\\Repositories\\AccountRepository.cs",
               "ViewState": "AQIAAJUAAAAAAAAAAIBJwKAAAAAvAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-01T03:32:08.279Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-12-01T03:32:08.279Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 4,
               "Title": "RefreshTokenRequestinpage.cs",
-              "DocumentMoniker": "G:\\mostafa  momeh\\web development\\back-end\\.net playlist\\final-project-test\\Nawy\\Dtos\\RefreshTokenRequestinpage.cs",
+              "DocumentMoniker": "C:\\Users\\mostafa\\source\\repos\\Nawytest0\\Nawy\\Dtos\\RefreshTokenRequestinpage.cs",
               "RelativeDocumentMoniker": "Dtos\\RefreshTokenRequestinpage.cs",
-              "ToolTip": "G:\\mostafa  momeh\\web development\\back-end\\.net playlist\\final-project-test\\Nawy\\Dtos\\RefreshTokenRequestinpage.cs",
+              "ToolTip": "C:\\Users\\mostafa\\source\\repos\\Nawytest0\\Nawy\\Dtos\\RefreshTokenRequestinpage.cs",
               "RelativeToolTip": "Dtos\\RefreshTokenRequestinpage.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-01T01:40:50.629Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-12-01T01:40:50.629Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 6,
               "Title": "Program.cs",
-              "DocumentMoniker": "G:\\mostafa  momeh\\web development\\back-end\\.net playlist\\final-project-test\\Nawy\\Program.cs",
+              "DocumentMoniker": "C:\\Users\\mostafa\\source\\repos\\Nawytest0\\Nawy\\Program.cs",
               "RelativeDocumentMoniker": "Program.cs",
-              "ToolTip": "G:\\mostafa  momeh\\web development\\back-end\\.net playlist\\final-project-test\\Nawy\\Program.cs",
+              "ToolTip": "C:\\Users\\mostafa\\source\\repos\\Nawytest0\\Nawy\\Program.cs",
               "RelativeToolTip": "Program.cs",
               "ViewState": "AQIAAIEAAAAAAAAAAAAQwIwAAAA0AAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-01T01:04:34.752Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 9,
-              "Title": "ApplicationUser.cs",
-              "DocumentMoniker": "G:\\mostafa  momeh\\web development\\back-end\\.net playlist\\final-project-test\\RepositoryModel\\Models\\ApplicationUser.cs",
-              "RelativeDocumentMoniker": "..\\RepositoryModel\\Models\\ApplicationUser.cs",
-              "ToolTip": "G:\\mostafa  momeh\\web development\\back-end\\.net playlist\\final-project-test\\RepositoryModel\\Models\\ApplicationUser.cs",
-              "RelativeToolTip": "..\\RepositoryModel\\Models\\ApplicationUser.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAA2AAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-01T00:29:47.285Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 10,
-              "Title": "UnitDTO.cs",
-              "DocumentMoniker": "G:\\mostafa  momeh\\web development\\back-end\\.net playlist\\final-project-test\\Nawy\\Dtos\\UnitDTO.cs",
-              "RelativeDocumentMoniker": "Dtos\\UnitDTO.cs",
-              "ToolTip": "G:\\mostafa  momeh\\web development\\back-end\\.net playlist\\final-project-test\\Nawy\\Dtos\\UnitDTO.cs",
-              "RelativeToolTip": "Dtos\\UnitDTO.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-01T00:14:59.771Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-12-01T01:04:34.752Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 11,
+              "Title": "ApplicationUser.cs",
+              "DocumentMoniker": "G:\\mostafa  momeh\\web development\\back-end\\.net playlist\\final-project-test\\RepositoryModel\\Models\\ApplicationUser.cs",
+              "ToolTip": "G:\\mostafa  momeh\\web development\\back-end\\.net playlist\\final-project-test\\RepositoryModel\\Models\\ApplicationUser.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAA2AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-01T00:29:47.285Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "UnitDTO.cs",
+              "DocumentMoniker": "C:\\Users\\mostafa\\source\\repos\\Nawytest0\\Nawy\\Dtos\\UnitDTO.cs",
+              "RelativeDocumentMoniker": "Dtos\\UnitDTO.cs",
+              "ToolTip": "C:\\Users\\mostafa\\source\\repos\\Nawytest0\\Nawy\\Dtos\\UnitDTO.cs",
+              "RelativeToolTip": "Dtos\\UnitDTO.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-01T00:14:59.771Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
               "Title": "AccountUser.cs",
-              "DocumentMoniker": "G:\\mostafa  momeh\\web development\\back-end\\.net playlist\\final-project-test\\Nawy\\Dtos\\AccountUser.cs",
+              "DocumentMoniker": "C:\\Users\\mostafa\\source\\repos\\Nawytest0\\Nawy\\Dtos\\AccountUser.cs",
               "RelativeDocumentMoniker": "Dtos\\AccountUser.cs",
-              "ToolTip": "G:\\mostafa  momeh\\web development\\back-end\\.net playlist\\final-project-test\\Nawy\\Dtos\\AccountUser.cs",
+              "ToolTip": "C:\\Users\\mostafa\\source\\repos\\Nawytest0\\Nawy\\Dtos\\AccountUser.cs",
               "RelativeToolTip": "Dtos\\AccountUser.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAApAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-30T23:52:21.358Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-11-30T23:52:21.358Z"
             }
           ]
         }

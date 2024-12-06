@@ -56,7 +56,7 @@ namespace Nawy.Controllers
                     if (result.Succeeded)
                     {
                         
-                        await unitOFWork.Accounts.AddToRoleAsync(applicationUser, "admin");
+                 //       await unitOFWork.Accounts.AddToRoleAsync(applicationUser, "admin");
                         await unitOFWork.Accounts.NotUserExternal(applicationUser);
 
                         return Ok(new { response = new List<string> { "regstrion success" } });

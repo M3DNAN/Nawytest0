@@ -32,3 +32,21 @@ G:\mostafa  momeh\web development\back-end\.net playlist\final-project-test\Data
 G:\mostafa  momeh\web development\back-end\.net playlist\final-project-test\DataBaseModel\obj\Debug\net8.0\DataBaseModel.pdb
 G:\mostafa  momeh\web development\back-end\.net playlist\final-project-test\DataBaseModel\obj\Debug\net8.0\DataBaseModel.genruntimeconfig.cache
 G:\mostafa  momeh\web development\back-end\.net playlist\final-project-test\DataBaseModel\obj\Debug\net8.0\ref\DataBaseModel.dll
+C:\Users\mostafa\Source\Repos\Nawytest\DataBaseModel\bin\Debug\net8.0\DataBaseModel.deps.json
+C:\Users\mostafa\Source\Repos\Nawytest\DataBaseModel\bin\Debug\net8.0\DataBaseModel.runtimeconfig.json
+C:\Users\mostafa\Source\Repos\Nawytest\DataBaseModel\bin\Debug\net8.0\DataBaseModel.dll
+C:\Users\mostafa\Source\Repos\Nawytest\DataBaseModel\bin\Debug\net8.0\DataBaseModel.pdb
+C:\Users\mostafa\Source\Repos\Nawytest\DataBaseModel\bin\Debug\net8.0\RepositoryModel.dll
+C:\Users\mostafa\Source\Repos\Nawytest\DataBaseModel\bin\Debug\net8.0\RepositoryModel.pdb
+C:\Users\mostafa\Source\Repos\Nawytest\DataBaseModel\obj\Debug\net8.0\DataBaseModel.csproj.AssemblyReference.cache
+C:\Users\mostafa\Source\Repos\Nawytest\DataBaseModel\obj\Debug\net8.0\DataBaseModel.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mostafa\Source\Repos\Nawytest\DataBaseModel\obj\Debug\net8.0\DataBaseModel.AssemblyInfoInputs.cache
+C:\Users\mostafa\Source\Repos\Nawytest\DataBaseModel\obj\Debug\net8.0\DataBaseModel.AssemblyInfo.cs
+C:\Users\mostafa\Source\Repos\Nawytest\DataBaseModel\obj\Debug\net8.0\DataBaseModel.csproj.CoreCompileInputs.cache
+C:\Users\mostafa\Source\Repos\Nawytest\DataBaseModel\obj\Debug\net8.0\DataBaseModel.sourcelink.json
+C:\Users\mostafa\Source\Repos\Nawytest\DataBaseModel\obj\Debug\net8.0\DataBase.AA7913C8.Up2Date
+C:\Users\mostafa\Source\Repos\Nawytest\DataBaseModel\obj\Debug\net8.0\DataBaseModel.dll
+C:\Users\mostafa\Source\Repos\Nawytest\DataBaseModel\obj\Debug\net8.0\refint\DataBaseModel.dll
+C:\Users\mostafa\Source\Repos\Nawytest\DataBaseModel\obj\Debug\net8.0\DataBaseModel.pdb
+C:\Users\mostafa\Source\Repos\Nawytest\DataBaseModel\obj\Debug\net8.0\DataBaseModel.genruntimeconfig.cache
+C:\Users\mostafa\Source\Repos\Nawytest\DataBaseModel\obj\Debug\net8.0\ref\DataBaseModel.dll

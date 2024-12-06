@@ -22,6 +22,8 @@ namespace DataBaseModel
         public IDatabaseRepository<Developer> Developers { get; private set; }
         public IDatabaseRepository<UnitDescription> UnitDescriptions { get; private set; }
         public IDatabaseRepository<UnitView> UnitViews { get; private set; }
+        public IDatabaseRepository<LocationRoi> LocationRois { get; private set; }
+        public IDatabaseRepository<ApplicationUser> ApplicationUsers { get; private set; }
         public IAccountRepository Accounts { get; private set; }
         public UnitOFWork(ApplicationDbContext context , IEmailService emailService , IConfiguration configuration
           , UserManager<ApplicationUser> userManager)
@@ -34,6 +36,8 @@ namespace DataBaseModel
             UnitViews=new DatabaseRepository<UnitView>(context);
             Units=new DatabaseRepository<Unit>(context);
             Developers= new DatabaseRepository<Developer>(context);
+			LocationRois = new DatabaseRepository<LocationRoi>(context);
+			ApplicationUsers = new DatabaseRepository<ApplicationUser>(context);
         }
 
         public int Compelet()

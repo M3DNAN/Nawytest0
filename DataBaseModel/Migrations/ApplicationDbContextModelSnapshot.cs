@@ -306,6 +306,18 @@ namespace DataBaseModel.Migrations
                     b.HasKey("Id");
 
                     b.ToTable("Developers");
+
+                    b.HasData(
+                        new
+                        {
+                            Id = "dev1",
+                            Name = "Developer A"
+                        },
+                        new
+                        {
+                            Id = "dev2",
+                            Name = "Developer B"
+                        });
                 });
 
             modelBuilder.Entity("RepositoryModel.Models.Installment", b =>
@@ -328,6 +340,26 @@ namespace DataBaseModel.Migrations
                     b.HasIndex("TransactionId");
 
                     b.ToTable("Installments");
+                });
+
+            modelBuilder.Entity("RepositoryModel.Models.LocationRoi", b =>
+                {
+                    b.Property<int>("Id")
+                        .ValueGeneratedOnAdd()
+                        .HasColumnType("int");
+
+                    SqlServerPropertyBuilderExtensions.UseIdentityColumn(b.Property<int>("Id"));
+
+                    b.Property<string>("Location")
+                        .IsRequired()
+                        .HasColumnType("nvarchar(max)");
+
+                    b.Property<decimal>("RoiPercentage")
+                        .HasColumnType("decimal(18,2)");
+
+                    b.HasKey("Id");
+
+                    b.ToTable("LocationRois");
                 });
 
             modelBuilder.Entity("RepositoryModel.Models.SharesTransaction", b =>
@@ -437,6 +469,9 @@ namespace DataBaseModel.Migrations
                         .IsRequired()
                         .HasColumnType("nvarchar(max)");
 
+                    b.Property<int?>("LocationRoiId")
+                        .HasColumnType("int");
+
                     b.Property<decimal>("MonthlyPayment")
                         .HasColumnType("decimal(10, 2)");
 
@@ -451,7 +486,43 @@ namespace DataBaseModel.Migrations
 
                     b.HasIndex("DeveloperId");
 
+                    b.HasIndex("LocationRoiId");
+
                     b.ToTable("Units");
+
+                    b.HasData(
+                        new
+                        {
+                            Id = "unit1",
+                            Available = 0,
+                            AvailableShares = 10,
+                            AvilableDate = new DateTime(2024, 1, 1, 0, 0, 0, 0, DateTimeKind.Unspecified),
+                            CurrentUnitPrice = 1200000.00m,
+                            CurrentUnitROI = 15.00m,
+                            DeveloperId = "dev1",
+                            DownPayment = 50000.00m,
+                            ExitDate = new DateTime(2027, 1, 1, 0, 0, 0, 0, DateTimeKind.Unspecified),
+                            Location = "New Cairo",
+                            MonthlyPayment = 15000.00m,
+                            Name = "Luxury Apartment",
+                            StartUnitPrice = 1000000.00m
+                        },
+                        new
+                        {
+                            Id = "unit2",
+                            Available = 1,
+                            AvailableShares = 5,
+                            AvilableDate = new DateTime(2024, 6, 1, 0, 0, 0, 0, DateTimeKind.Unspecified),
+                            CurrentUnitPrice = 5500000.00m,
+                            CurrentUnitROI = 10.00m,
+                            DeveloperId = "dev2",
+                            DownPayment = 100000.00m,
+                            ExitDate = new DateTime(2030, 6, 1, 0, 0, 0, 0, DateTimeKind.Unspecified),
+                            Location = "Sheikh Zayed",
+                            MonthlyPayment = 50000.00m,
+                            Name = "Family Villa",
+                            StartUnitPrice = 5000000.00m
+                        });
                 });
 
             modelBuilder.Entity("RepositoryModel.Models.UnitDescription", b =>
@@ -481,6 +552,24 @@ namespace DataBaseModel.Migrations
                         .IsUnique();
 
                     b.ToTable("UnitDescriptions");
+
+                    b.HasData(
+                        new
+                        {
+                            Id = 1,
+                            Area = 120,
+                            NumberOfBathrooms = 2,
+                            NumberOfBedrooms = 3,
+                            UnitId = "unit1"
+                        },
+                        new
+                        {
+                            Id = 2,
+                            Area = 350,
+                            NumberOfBathrooms = 4,
+                            NumberOfBedrooms = 5,
+                            UnitId = "unit2"
+                        });
                 });
 
             modelBuilder.Entity("RepositoryModel.Models.UnitImages", b =>
@@ -526,6 +615,32 @@ namespace DataBaseModel.Migrations
                     b.HasIndex("UnitId");
 
                     b.ToTable("UnitView");
+
+                    b.HasData(
+                        new
+                        {
+                            Id = 1,
+                            Name = 7,
+                            UnitId = "unit1"
+                        },
+                        new
+                        {
+                            Id = 2,
+                            Name = 3,
+                            UnitId = "unit1"
+                        },
+                        new
+                        {
+                            Id = 3,
+                            Name = 4,
+                            UnitId = "unit2"
+                        },
+                        new
+                        {
+                            Id = 4,
+                            Name = 0,
+                            UnitId = "unit2"
+                        });
                 });
 
             modelBuilder.Entity("Microsoft.AspNetCore.Identity.IdentityRoleClaim<string>", b =>
@@ -658,7 +773,13 @@ namespace DataBaseModel.Migrations
                         .OnDelete(DeleteBehavior.Cascade)
                         .IsRequired();
 
+                    b.HasOne("RepositoryModel.Models.LocationRoi", "LocationRoi")
+                        .WithMany("Unit")
+                        .HasForeignKey("LocationRoiId");
+
                     b.Navigation("Developer");
+
+                    b.Navigation("LocationRoi");
                 });
 
             modelBuilder.Entity("RepositoryModel.Models.UnitDescription", b =>
@@ -709,6 +830,11 @@ namespace DataBaseModel.Migrations
             modelBuilder.Entity("RepositoryModel.Models.Developer", b =>
                 {
                     b.Navigation("Units");
+                });
+
+            modelBuilder.Entity("RepositoryModel.Models.LocationRoi", b =>
+                {
+                    b.Navigation("Unit");
                 });
 
             modelBuilder.Entity("RepositoryModel.Models.SharesTransaction", b =>

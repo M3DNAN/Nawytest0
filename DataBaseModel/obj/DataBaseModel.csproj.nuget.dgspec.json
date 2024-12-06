@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "G:\\mostafa  momeh\\web development\\back-end\\.net playlist\\final-project-test\\DataBaseModel\\DataBaseModel.csproj": {}
+    "C:\\Users\\mostafa\\source\\repos\\Nawytest0\\DataBaseModel\\DataBaseModel.csproj": {}
   },
   "projects": {
-    "G:\\mostafa  momeh\\web development\\back-end\\.net playlist\\final-project-test\\DataBaseModel\\DataBaseModel.csproj": {
+    "C:\\Users\\mostafa\\source\\repos\\Nawytest0\\DataBaseModel\\DataBaseModel.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "G:\\mostafa  momeh\\web development\\back-end\\.net playlist\\final-project-test\\DataBaseModel\\DataBaseModel.csproj",
+        "projectUniqueName": "C:\\Users\\mostafa\\source\\repos\\Nawytest0\\DataBaseModel\\DataBaseModel.csproj",
         "projectName": "DataBaseModel",
-        "projectPath": "G:\\mostafa  momeh\\web development\\back-end\\.net playlist\\final-project-test\\DataBaseModel\\DataBaseModel.csproj",
-        "packagesPath": "C:\\Users\\El-Wattaneya\\.nuget\\packages\\",
-        "outputPath": "G:\\mostafa  momeh\\web development\\back-end\\.net playlist\\final-project-test\\DataBaseModel\\obj\\",
+        "projectPath": "C:\\Users\\mostafa\\source\\repos\\Nawytest0\\DataBaseModel\\DataBaseModel.csproj",
+        "packagesPath": "C:\\Users\\mostafa\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\mostafa\\Source\\Repos\\Nawytest0\\DataBaseModel\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\El-Wattaneya\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\mostafa\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -29,8 +29,8 @@
           "net8.0": {
             "targetAlias": "net8.0",
             "projectReferences": {
-              "G:\\mostafa  momeh\\web development\\back-end\\.net playlist\\final-project-test\\RepositoryModel\\RepositoryModel.csproj": {
-                "projectPath": "G:\\mostafa  momeh\\web development\\back-end\\.net playlist\\final-project-test\\RepositoryModel\\RepositoryModel.csproj"
+              "C:\\Users\\mostafa\\source\\repos\\Nawytest0\\RepositoryModel\\RepositoryModel.csproj": {
+                "projectPath": "C:\\Users\\mostafa\\source\\repos\\Nawytest0\\RepositoryModel\\RepositoryModel.csproj"
               }
             }
           }
@@ -97,17 +97,17 @@
         }
       }
     },
-    "G:\\mostafa  momeh\\web development\\back-end\\.net playlist\\final-project-test\\RepositoryModel\\RepositoryModel.csproj": {
+    "C:\\Users\\mostafa\\source\\repos\\Nawytest0\\RepositoryModel\\RepositoryModel.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "G:\\mostafa  momeh\\web development\\back-end\\.net playlist\\final-project-test\\RepositoryModel\\RepositoryModel.csproj",
+        "projectUniqueName": "C:\\Users\\mostafa\\source\\repos\\Nawytest0\\RepositoryModel\\RepositoryModel.csproj",
         "projectName": "RepositoryModel",
-        "projectPath": "G:\\mostafa  momeh\\web development\\back-end\\.net playlist\\final-project-test\\RepositoryModel\\RepositoryModel.csproj",
-        "packagesPath": "C:\\Users\\El-Wattaneya\\.nuget\\packages\\",
-        "outputPath": "G:\\mostafa  momeh\\web development\\back-end\\.net playlist\\final-project-test\\RepositoryModel\\obj\\",
+        "projectPath": "C:\\Users\\mostafa\\source\\repos\\Nawytest0\\RepositoryModel\\RepositoryModel.csproj",
+        "packagesPath": "C:\\Users\\mostafa\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\mostafa\\Source\\Repos\\Nawytest0\\RepositoryModel\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\El-Wattaneya\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\mostafa\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
